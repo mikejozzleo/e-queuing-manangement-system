@@ -11,10 +11,10 @@ app.use(express.json())
 app.use(express.static("public"))
 
 const conn = mysql.createConnection({
-    host: 'localhost',
-    user: 'root',
-    password: '',
-    database: 'eqmsystem',
+    host: 'sql6.freesqldatabase.com',
+    user: 'sql6583879',
+    password: 'YUiKN16Fwk',
+    database: 'sql6583879',
     port: 3306
 })
 
