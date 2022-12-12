@@ -12,9 +12,9 @@ app.use(express.static("public"))
 
 const conn = mysql.createConnection({
     host: 'sql6.freesqldatabase.com',
-    user: 'sql6583879',
-    password: 'YUiKN16Fwk',
-    database: 'sql6583879',
+    user: 'sql6584277',
+    password: 'wnb97uGCEi',
+    database: 'sql6584277',
     port: 3306
 })
 
